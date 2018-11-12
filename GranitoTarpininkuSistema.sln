@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GranitoTarpininkuSistema", "GranitoTarpininkuSistema\GranitoTarpininkuSistema.csproj", "{7964C254-8C80-4FB5-90DD-07A45730A88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7964C254-8C80-4FB5-90DD-07A45730A88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7964C254-8C80-4FB5-90DD-07A45730A88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7964C254-8C80-4FB5-90DD-07A45730A88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7964C254-8C80-4FB5-90DD-07A45730A88B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BACC11-03F5-4B7F-8FE9-D2B911F8CB88}
+	EndGlobalSection
+EndGlobal
